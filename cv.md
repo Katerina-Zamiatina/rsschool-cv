@@ -1,7 +1,7 @@
 # KATERINA ZAMIATINA
 
 ## Front-end developer
---------------
+
 
 ### Contacts:
 
@@ -14,6 +14,7 @@
 **[LinkedIn](https://www.linkedin.com/in/ezamiatina/)**
 
 **[GitHub](https://github.com/Katerina-Zamiatina)**
+
 ---------------
 
 ### About Myself:
@@ -21,6 +22,7 @@
 I'm starting my career in IT. I have proficient knowledge of HTML, CSS, JavaScript, React.js, Redux. Also, I study Node.js and have practice in Node.js project. I have experience in Agile/Scrum methodology when working in a team.
 I am really fond of programming. Learning JavaScript captures and delights me.
 My strong personal qualities: self-motivation, adaptability and good team player. I'm responsible and ready for hard tasks.
+
 ---------------
 
 ### Tech Skills:
@@ -38,6 +40,7 @@ My strong personal qualities: self-motivation, adaptability and good team player
    * Proactive
    * Hardworking and meet deadlines
    * Open to knew knowledge and skills
+
 ---------------
 
 ### Code example:
@@ -88,29 +91,54 @@ function findShort(s){
    * [Phonebook](https://amazing-phonebook.netlify.app/)
    [React.js, Redux, Axios, CSS]\
    Phonebook application: users registration, working with private contacts collection.
+
 ----------------
 
-### Education:
+
+### WORK EXPERIENCE:
+
+Freelance
+
+   Co-owner of dog clothes brand |\ *Dec 2016 - present*
+   * Dog clothes designing
+   * Сontent creator for Instagram account Analytics
+   * Communication with clients
+
+   **Zhuko.net** IT-recruiter |\ *May 2016 - Nov 2016*
+   * Sourcing potential candidates
+   * Screening Candidates
+   * Arranging Interviews
+
+----------------
+
+### EDUCATION:
 
 
 **IT School - Rolling Scopes School**
 
-Course: JavaScript/FrontEnd pre-school | Jun 2022 - present time
+Course: JavaScript/FrontEnd pre-school |\ *Jun 2022 - present time*
 
 
 **IT School GoIT**
 
-Fullstack Developer | Jun 2020 - Aug 2021
+Fullstack Developer |\ *Jun 2020 - Aug 2021*
 
 
 **IT Recruiting School - Zhuko.net**
 
-IT-recruiter | May 2016 - Jul 2016
+IT-recruiter |\ *May 2016 - Jul 2016*
 
 **Irkutsk State Linguistic University**
 
-Teacher of foreign languages | Sep 2004 - Jun 2009
+Teacher of foreign languages |\ *Sep 2004 - Jun 2009*
+
 -------------------
 
 ### Languages skills:
+
+   * English - Upper-intermediate (*online test* [EFset](https://www.efset.org/cert/7Ua2pv))
+   * Russian - native
+   * Ukranian - proficient
+   * German - base
+   * Italian - base
 
