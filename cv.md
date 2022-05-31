@@ -2,7 +2,19 @@
 
 ## Front-end developer
 
-I'm looking for an interesting job in friendly and good team to improve my skills. I have proficient knowledge of HTML, CSS, JavaScript, React.js, Redux. Also, I study Node.js and have practice in Node.js project. I have experience in Agile/Scrum methodology when working in a team. I'm responsible and ready for hard tasks.
+I'm starting my career in IT. I have proficient knowledge of HTML, CSS, JavaScript, React.js, Redux. Also, I study Node.js and have practice in Node.js project. I have experience in Agile/Scrum methodology when working in a team.
+I am really fond of programming. Learning JavaScript captures and delights me.
+My strong personal qualities: self-motivation, adaptability and good team player. I'm responsible and ready for hard tasks.
+
+
+### Contacts:
+
+**Phone:** +38 066 4027214
+**Email:** eozamyatina@gmail.com
+**Discord:** katerina-zamiatina#3269
+**[LinkedIn](https://www.linkedin.com/in/ezamiatina/)**
+**[GitHub](https://github.com/Katerina-Zamiatina)**
+
 
 ### Projects
 
