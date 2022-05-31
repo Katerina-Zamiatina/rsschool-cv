@@ -2,10 +2,6 @@
 
 ## Front-end developer
 
-I'm starting my career in IT. I have proficient knowledge of HTML, CSS, JavaScript, React.js, Redux. Also, I study Node.js and have practice in Node.js project. I have experience in Agile/Scrum methodology when working in a team.
-I am really fond of programming. Learning JavaScript captures and delights me.
-My strong personal qualities: self-motivation, adaptability and good team player. I'm responsible and ready for hard tasks.
-
 
 ### Contacts:
 
@@ -15,6 +11,47 @@ My strong personal qualities: self-motivation, adaptability and good team player
 **[LinkedIn](https://www.linkedin.com/in/ezamiatina/)**
 **[GitHub](https://github.com/Katerina-Zamiatina)**
 
+
+### About Myself:
+
+I'm starting my career in IT. I have proficient knowledge of HTML, CSS, JavaScript, React.js, Redux. Also, I study Node.js and have practice in Node.js project. I have experience in Agile/Scrum methodology when working in a team.
+I am really fond of programming. Learning JavaScript captures and delights me.
+My strong personal qualities: self-motivation, adaptability and good team player. I'm responsible and ready for hard tasks.
+
+
+### Tech Skills:
+
+   * HTML, CSS, SASS, BEM
+   * JavaScript
+   * React, Redux
+   * Node.js, MongoDB, Express
+   * GIT
+
+### Soft Skills:
+
+   * Teamwork
+   * Responsibility
+   * Proactive
+   * Hardworking and meet deadlines
+   * Open to knew knowledge and skills
+
+
+### Code example:
+
+**Shortest word:** *Simple, given a string of words, return the length of the shortest word(s). String will never be empty and you do not need to account for different data types.*
+
+```
+function findShort(s){
+  const word = s.split(' ');
+  let shortestWord = word[0];
+  for (let i = 0; i < word.length; i += 1) {
+    if (word[i].length < shortestWord.length) {
+      shortestWord = word[i];
+    }
+  }
+  return shortestWord.length;
+}
+```
 
 ### Projects
 
