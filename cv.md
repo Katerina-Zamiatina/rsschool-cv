@@ -1,23 +1,27 @@
 # KATERINA ZAMIATINA
 
 ## Front-end developer
-
+--------------
 
 ### Contacts:
 
 **Phone:** +38 066 4027214
-**Email:** eozamyatina@gmail.com
-**Discord:** katerina-zamiatina#3269
-**[LinkedIn](https://www.linkedin.com/in/ezamiatina/)**
-**[GitHub](https://github.com/Katerina-Zamiatina)**
 
+**Email:** eozamyatina@gmail.com
+
+**Discord:** katerina-zamiatina#3269
+
+**[LinkedIn](https://www.linkedin.com/in/ezamiatina/)**
+
+**[GitHub](https://github.com/Katerina-Zamiatina)**
+---------------
 
 ### About Myself:
 
 I'm starting my career in IT. I have proficient knowledge of HTML, CSS, JavaScript, React.js, Redux. Also, I study Node.js and have practice in Node.js project. I have experience in Agile/Scrum methodology when working in a team.
 I am really fond of programming. Learning JavaScript captures and delights me.
 My strong personal qualities: self-motivation, adaptability and good team player. I'm responsible and ready for hard tasks.
-
+---------------
 
 ### Tech Skills:
 
@@ -34,7 +38,7 @@ My strong personal qualities: self-motivation, adaptability and good team player
    * Proactive
    * Hardworking and meet deadlines
    * Open to knew knowledge and skills
-
+---------------
 
 ### Code example:
 
@@ -52,8 +56,9 @@ function findShort(s){
   return shortestWord.length;
 }
 ```
+---------------
 
-### Projects
+### Projects:
 
 
 #### Teamwork projects
@@ -83,3 +88,29 @@ function findShort(s){
    * [Phonebook](https://amazing-phonebook.netlify.app/)
    [React.js, Redux, Axios, CSS]\
    Phonebook application: users registration, working with private contacts collection.
+----------------
+
+### Education:
+
+
+**IT School - Rolling Scopes School**
+
+Course: JavaScript/FrontEnd pre-school | Jun 2022 - present time
+
+
+**IT School GoIT**
+
+Fullstack Developer | Jun 2020 - Aug 2021
+
+
+**IT Recruiting School - Zhuko.net**
+
+IT-recruiter | May 2016 - Jul 2016
+
+**Irkutsk State Linguistic University**
+
+Teacher of foreign languages | Sep 2004 - Jun 2009
+-------------------
+
+### Languages skills:
+
