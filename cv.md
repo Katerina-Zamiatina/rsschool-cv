@@ -15,7 +15,7 @@
 
 **[GitHub](https://github.com/Katerina-Zamiatina)**
 
----------------
+---
 
 ### About Myself:
 
@@ -23,7 +23,7 @@ I'm starting my career in IT. I have proficient knowledge of HTML, CSS, JavaScri
 I am really fond of programming. Learning JavaScript captures and delights me.
 My strong personal qualities: self-motivation, adaptability and good team player. I'm responsible and ready for hard tasks.
 
----------------
+---
 
 ### Tech Skills:
 
@@ -41,7 +41,7 @@ My strong personal qualities: self-motivation, adaptability and good team player
    * Hardworking and meet deadlines
    * Open to knew knowledge and skills
 
----------------
+---
 
 ### Code example:
 
@@ -59,7 +59,7 @@ function findShort(s){
   return shortestWord.length;
 }
 ```
----------------
+---
 
 ### Projects:
 
@@ -92,47 +92,47 @@ function findShort(s){
    [React.js, Redux, Axios, CSS]\
    Phonebook application: users registration, working with private contacts collection.
 
-----------------
+---
 
 
 ### WORK EXPERIENCE:
 
 Freelance
 
-   Co-owner of dog clothes brand |\ *Dec 2016 - present*
+   Co-owner of dog clothes brand \| *Dec 2016 - present*
    * Dog clothes designing
    * Сontent creator for Instagram account Analytics
    * Communication with clients
 
-   **Zhuko.net** IT-recruiter |\ *May 2016 - Nov 2016*
+   **Zhuko.net** IT-recruiter \| *May 2016 - Nov 2016*
    * Sourcing potential candidates
    * Screening Candidates
    * Arranging Interviews
 
-----------------
+---
 
 ### EDUCATION:
 
 
 **IT School - Rolling Scopes School**
 
-Course: JavaScript/FrontEnd pre-school |\ *Jun 2022 - present time*
+Course: JavaScript/FrontEnd pre-school \| *Jun 2022 - present time*
 
 
 **IT School GoIT**
 
-Fullstack Developer |\ *Jun 2020 - Aug 2021*
+Fullstack Developer \| *Jun 2020 - Aug 2021*
 
 
 **IT Recruiting School - Zhuko.net**
 
-IT-recruiter |\ *May 2016 - Jul 2016*
+IT-recruiter \| *May 2016 - Jul 2016*
 
 **Irkutsk State Linguistic University**
 
-Teacher of foreign languages |\ *Sep 2004 - Jun 2009*
+Teacher of foreign languages \| *Sep 2004 - Jun 2009*
 
--------------------
+---
 
 ### Languages skills:
 
