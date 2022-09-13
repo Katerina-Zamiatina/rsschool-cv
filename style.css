@@ -1,0 +1,295 @@
+:root {
+  --primary-text-color: #5c345c;
+  --bg-color: #aca46f;
+  --title-text-color: #2e172e;
+  --accent-color: #7574a7;
+  --text-light: #e7e7de;
+  --bg-secondary: #e9e8e3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+
+  background-color: var(--bg-secondary);
+  color: var(--primary-text-color);
+}
+
+/* Common */
+
+img {
+  display: block;
+  /* min-width: 100%; */
+  height: auto;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--primary-text-color);
+  text-decoration: none;
+}
+
+/* Header */
+
+.header {
+  min-width: 100%;
+  background-color: rgba(172, 164, 111, 0.1);
+}
+
+.nav {
+  padding: 30px 20px;
+}
+
+.nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+}
+
+.link:hover,
+.link:focus {
+  color: var(--accent-color);
+  cursor: pointer;
+}
+
+/* Main common*/
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+}
+
+.container {
+  width: 100%;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+
+.title {
+  padding-bottom: 64px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 34px;
+  color: var(--title-text-color);
+}
+
+.sub-title {
+  padding-top: 80px;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 24px;
+  color: var(--accent-color);
+}
+
+.section-title {
+  position: relative;
+  padding-left: 30px;
+
+  font-family: "Railway", sans-serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+
+  color: var(--title-text-color);
+  background-color: rgba(172, 164, 111, 0.1);
+  border-top: 2px solid var(--bg-color);
+}
+
+.section-list {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.section-item {
+  color: var(--accent-color);
+}
+
+.section-item-text {
+  color: var(--text-light);
+}
+
+/* Side bar */
+
+.left-side {
+  padding-top: 20px;
+  background-color: var(--bg-color);
+  color: var(--text-light);
+}
+
+.avatar {
+  margin: 0 auto;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 5px 5px 4px 0px rgba(172, 164, 111, 0.2);
+}
+
+/* Right side */
+
+.right-side {
+  padding-bottom: 20px;
+}
+
+/* contacts */
+
+.section-contacts a {
+  color: var(--text-light);
+}
+
+.section-contacts-item {
+  display: flex;
+}
+
+.section-contacts-item > .link {
+  padding-left: 10px;
+}
+
+/* Code */
+
+.pre {
+  margin: 0;
+  padding: 0;
+}
+
+/* Projects */
+
+.projects-link {
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+/* Work experience */
+
+.work-date {
+  display: block;
+  padding-bottom: 15px;
+  font-weight: lighter;
+  color: #7574a7;
+}
+
+/* Education */
+
+.education-title {
+  margin: 0;
+}
+
+/* Footer */
+
+.footer {
+  padding: 30px;
+  background-color: rgba(172, 164, 111, 0.3);
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Adaptivity */
+
+@media (max-width: 719px) {
+  .nav-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 100px;
+  }
+
+  .nav-list .nav-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .wrapper {
+    display: block;
+  }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .left-side {
+    background-color: var(--bg-secondary);
+  }
+
+  .section-item-text {
+    color: var(--primary-text-color);
+  }
+
+  .section-contacts-item > .link {
+    color: var(--primary-text-color);
+  }
+
+  .section-contacts-item > .link:hover {
+    color: var(--accent-color);
+    cursor: pointer;
+  }
+
+  .right-side {
+    padding-bottom: 20px;
+  }
+
+  .title {
+    padding-bottom: 0;
+  }
+
+  .sub-title {
+    padding-top: 0;
+  }
+
+  .pre {
+    font-size: 16px;
+  }
+
+   
+}
+
+@media (min-width: 720px) {
+  .visually-hidden-mob {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+ .footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
